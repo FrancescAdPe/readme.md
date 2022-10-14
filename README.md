@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Júnior Full Stack Developer
 ---------------------------
 
-I've been learning to code since for 7 years and I'm always learning something new. I started with HTML, PHP... But have really found a passion with backend. Nowadays I'm following several courses of this area, the main of which is a scholarship offered by Indra and Banco de Santander Foundation.
+I've been learning to code for 7 years and I'm always learning something new. I started with HTML, PHP... But have really found a passion with backend. Nowadays I'm following several courses of this area, the main of which is a scholarship offered by Indra and Banco de Santander Foundation.
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [francesc.fullstack@gmail.com](mailto:francesc.fullstack@gmail.com)
