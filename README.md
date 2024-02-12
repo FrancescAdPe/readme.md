@@ -4,10 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Developer
 ---------------------------
 
-I've been learning to code for 7 years and I'm always learning something new. I started with HTML, PHP... But have really found a passion with backend. Nowadays I'm following several courses of this area, the main of which is a scholarship offered by Indra and Banco de Santander Foundation.
+Hello,
+
+I am Francesc Adrià Perelló, also professionally known as xescodes, a name that merges Xesco — a variant of my name common across the Balearic Islands — with my passion for development and coding. With a background in Philosophy from the University of Barcelona and specialization in fullstack development, along with a Google IT Support Certificate, I offer innovative technological solutions grounded in a deep humanistic understanding.
+
+As a freelancer, I provide web and mobile development services, as well as technological consultancy, always integrating critical thinking and innovation. I am eager to participate in projects requiring a multidisciplinary approach, combining technology, education, and humanities to create an impact.
+
+Thank you for considering the unique combination of skills I bring as xescodes to your team or project.
+
+Kind regards,
+
+Francesc Adrià Perelló (xescodes)
 
 * 🌍  I'm based in Barcelona
-* ✉️  You can contact me at [xescodes@gmail.com@gmail.com](mailto:xescodes@gmail.com)
+* ✉️  You can contact me at [xescodes@gmail.com](mailto:xescodes@gmail.com)
 * 🧠  I'm learning React
 
 <a href="https://www.twitter.com/FrancescAdria" target="_blank" rel="noreferrer"><img
