@@ -1,8 +1,9 @@
 ![](https://github.com/xescodes/media/blob/main/kekexesco.gif) 
-My name is Xesco
-=============================================================================================================================
+## My name is Xesco
+###### *and yes, the profile picture is an approximation made with AI,*
+###### *there is nothing better than reality*😉 #####
 
-Junior Full Stack Developer
+### Junior Full Stack Developer
 ---------------------------
 
 Hello,
@@ -26,7 +27,7 @@ src="https://img.shields.io/twitter/follow/FrancescAdria?logo=twitter&style=for-
 /></a><a href="https://www.twitch.tv/francescadpe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/francescadpe?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+#### Skills
 
 
 <p align="left">
@@ -48,7 +49,7 @@ src="https://img.shields.io/twitch/status/francescadpe?logo=twitchsx&style=for-t
 </p>
 
 
-### Socials
+#### Socials
 
 <p align="left"> <a href="https://discord.com/users/Xesco#7154" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/FrancescAdPe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xesco.fullstack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/xesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/FrancescAdria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/francescadpe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
